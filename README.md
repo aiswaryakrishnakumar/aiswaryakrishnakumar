@@ -3,7 +3,7 @@
 <div align='center'>
 <p align="center">
 <p><img src= "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px" height="250px"> 
- <img src= "https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxMjQzMTMsIm5iZiI6MTcyMzEyNDAxMywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDEzMzMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZjYxOWE2NDRjZmIyMjRlZDVmMmJhMDJmOGNiZGM1MzIzNDQyNDVmMDk5MzJlZjYzYTA1ODA0ZGEzYWFlNDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EaYERB1xR52SeAqOF5FW-8cgCZNOkKEvzKVv2u5-JdE"  width="200px" height="200px"  >
+ <img src= "https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif"  width="200px" height="200px"  >
 
 <a href = "https://aiswaryamk.vercel.app/"><h2>I'm Aiswarya M K</h2></a>
 </p>
