@@ -9,7 +9,7 @@
 </p>
 
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nithin+is+a+web+designer+;and+back-end+developer.;He+crafts+responsive+websites;where+technologies+meet+creativity." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=700&size=37&duration=4997&pause=983&color=4FD2F7&center=true&vCenter=true&width=435&lines=Aiswarya+is+a+Developer.;Innovative.+Dedicated.+Versatile" alt="Typing SVG" /></a>
 </div>
 
 </p>
