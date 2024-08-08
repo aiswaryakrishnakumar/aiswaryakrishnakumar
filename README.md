@@ -14,62 +14,27 @@
 
 </p>
 <div>
-<div><p><h1> Languages and Tools</h4></div></p>
- 
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-<!--    <img src="https://skillicons.dev/icons?i=html,css,jquery,git,mysql,mongodb,firebase,java,js,r,py,tensorflow,figma,github"/> -->
-    <img src="https://skillicons.dev/icons?i=html,css,git,mysql,java,js,nodejs,py,figma,github,flutter"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-<!--    <img src="https://skillicons.dev/icons?i=gitlab,androidstudio,idea,vscode,visualstudio,eclipse,idea,jenkins,docker,atom,azure,codepen"/> -->
-   <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
-  </a>
-</p>
-<br>
-</div>
+# 💫 About Me:
+sooper
 
 
-<hr/>
-<div align="center">
- 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aiswarya_krishnakumar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiswaryamk02) 
 
-
-[![repo size](https://img.shields.io/github/repo-size/aiswaryakrishnakumar/aiswaryakrishnakumar?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)](https://github.com/aiswaryakrishnakumar)
-[![GitHub forks](https://img.shields.io/github/forks/aiswaryakrishnakumar/aiswaryakrishnakumar?&labelColor=black&color=0fb9b1&style=for-the-badge)](aiswaryakrishnakumar)
-[![GitHub stars](https://img.shields.io/github/stars/aiswaryakrishnakumar?&labelColor=black&color=f7b731&style=for-the-badge)](https://github.com/aiswaryakrishnakumar)
-[![GitHub LastCommit](https://img.shields.io/github/last-commit/aiswaryakrishnakumar/aiswaryakrishnakumar?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)](https://github.com/aiswaryakrishnakumar)
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faiswaryakrishnakumar&countColor=%23263759)](https://github.com/aiswaryakrishnakumar)
-[![Github follow](https://img.shields.io/github/followers/aiswaryakrishnakumar?label=Follow&color=black&style=for-the-badge)](https://github.com/aiswaryakrishnakumar)
-<img src="https://img.shields.io/badge/TypeScript%20-%23E00033.svg?&style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/firebase%20-%23777BB4.svg?&style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nithinlycanz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/aiswaryamk02) 
-
-
-
-</div>
- <p align='center'>
-
- ![](./profile-3d-contrib/profile-green-animate.svg)
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aiswaryakrishnakumar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aiswaryakrishnakumar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiswaryakrishnakumar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aiswaryakrishnakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=aiswaryakrishnakumar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aiswaryakrishnakumar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiswaryakrishnakumar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aiswaryakrishnakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-> If you have any questions you can message me on Linkedin: linkedin.com/in/aiswaryamk02  <br>
-<!-- **FIGMA** : [https://www.figma.com/community/file](https://www.figma.com/@nithinlycanz) <br> -->
-> **LIVE** : https://aiswaryamk.vercel.app/ <br>
-><!-- **CheckOut** : [nithinp.t@mulearn](./profile/nithinp.t@mulearn.md) -->
+---
+[![](https://visitcount.itsvg.in/api?id=aiswaryakrishnakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aiswaryamk) 
 
+  
