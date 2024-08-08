@@ -9,7 +9,7 @@
 </p>
 
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=200&size=34&duration=4997&pause=983&color=4FD2F7&center=true&vCenter=true&width=435&lines=Aiswarya+is+a+Developer.;Innovative.+Dedicated.+Versatile" alt="Typing SVG" /></a>
+<a href="https://linkedin.com/in/aiswaryamk02"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=200&size=34&duration=4997&pause=983&color=4FD2F7&center=true&vCenter=true&width=435&lines=Aiswarya+is+a+Developer.;Innovative.+Dedicated.+Versatile" alt="Yeah!" /></a>
 </div>
 
 </p>
@@ -35,6 +35,6 @@ sooper
 [![](https://visitcount.itsvg.in/api?id=aiswaryakrishnakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aiswaryamk) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aiswaryamk) 
 
   
