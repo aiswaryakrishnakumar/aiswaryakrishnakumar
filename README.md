@@ -9,7 +9,7 @@
 </p>
 
 </p>
-<a href="https://linkedin.com/in/aiswaryamk02"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=200&size=30&duration=4997&pause=983&color=4FD2F7&center=true&vCenter=true&width=440&lines=Aiswarya+is+a+Developer.;Innovative.+Dedicated.+Versatile" alt="Yeah!" /></a>
+<a href="https://linkedin.com/in/aiswaryamk02"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=200&size=30&duration=4997&pause=983&color=4FD2F7&center=true&vCenter=true&width=500&lines=Aiswarya+is+a+Developer.;Innovative.+Dedicated.+Versatile" alt="Yeah!" /></a>
 </div>
 
 </p>
