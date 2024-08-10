@@ -14,7 +14,13 @@
 
 </p>
 <div>
-# 💫 About Me:Enthusiast
+💫🏢 I am a Software Engineer
+🏫 2025 B.Tech. graduate from RIT KOTTAYAM
+💻 DIPLOMA on Computer Science & Technology
+🙋‍ More about me: [Visit my website](https://aiswaryamk.vercel.app/)
+🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/aiswaryamk02/)
+👯 Pronouns: She/Her
+👸From phoebe to Princess Consuela Banana-Hammock
 
 
 ## 🌐 Socials:
