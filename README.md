@@ -14,8 +14,7 @@
 
 </p>
 <div>
-# 💫 About Me:
-sooper
+# 💫 About Me:Enthusiast
 
 
 ## 🌐 Socials:
