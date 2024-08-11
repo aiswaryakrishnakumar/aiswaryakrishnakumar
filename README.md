@@ -23,7 +23,7 @@
 👸 From phoebe to Princess Consuela Banana-Hammock<br>
 
 
-<p><h1 align="center>Socials:</h1></p>
+<h1 align="center>Socials:</h1>
 <div align="center">
     <a href="https://instagram.com/aiswarya_krishnakumar_">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
